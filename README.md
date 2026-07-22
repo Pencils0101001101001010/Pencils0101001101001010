@@ -41,4 +41,4 @@ Below are a few select systems I have built that are actively deployed and runni
 ### 📬 Connect With Me
 - 📧 **Email**: sjkinnear@gmail.com
 
-🔬 *“The best way to predict the future is to invent it.”*
+🔬 *“Learning never stops”*

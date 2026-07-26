@@ -24,13 +24,13 @@ I am a versatile **Full-Stack Software Developer** based in South Africa. After 
 
 Below are a few select systems I have built that are actively deployed and running live in production environments:
 
-*   ** [Working On It](https://working-on-it-fmnh.vercel.app/)** 
+*   **[Working On It](https://working-on-it-fmnh.vercel.app/)** 
     *   *What it is*: A production deployment showcasing state management, client interface design, and structured workflows.
     *   *Tech stack*: TypeScript, Node.js.
-*   ** [ImLocal](https://imlocal.vercel.app/)** 
+*   **[ImLocal](https://imlocal.vercel.app/)** 
     *   *What it is*: A location-focused or environment-aware utility built with an intuitive layout to handle localized operations seamlessly.
     *   *Tech stack*: TypeScript, Node.js.
-*   ** [QC Report](https://qc-report.vercel.app/login?callbackUrl=%2Fdashboard)** 
+*   **[QC Report](https://qc-report.vercel.app/login?callbackUrl=%2Fdashboard)** 
     *   *What it is*: An analytical quality control platform engineered with a clean data dashboard to parse and report dataset integrity.
     *   *Tech stack*: TypeScript, Prisma.
 

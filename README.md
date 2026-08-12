@@ -35,7 +35,8 @@ Below are a few select systems I have built that are actively deployed and runni
     *   *Tech stack*: TypeScript, Prisma.
 *   **[BoardIt](https://board-it-one.vercel.app/login)**
     *   *What it is*: A easy to you event/project planner build with a nice white board layout. A sidebar to view all your boards and the items in it.
-    *   *Tech stack*: Typescipt, Nodejs, PostgreSQL 
+    *   *Tech stack*: Typescipt, Nodejs, PostgreSQL
+      
 *(Note: Other backend utilities, such as my **File Crypto Tool** and **On-Command File Generator**, are terminal-based or run natively in secure environments. Check out their respective repositories to see the source code!)*
 
 ---

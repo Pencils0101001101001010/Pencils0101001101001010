@@ -48,4 +48,4 @@ Below are a few select systems I have built that are actively deployed and runni
 ###  Connect With Me
 -  **Email**: sjkinnear@gmail.com
 
- *“Learning never stops”*
+ *“The more you build, the better you understand.”*

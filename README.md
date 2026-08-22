@@ -46,6 +46,6 @@ Below are a few select systems I have built that are actively deployed and runni
 ---
 
 ###  Connect With Me
--  **Email**: sjkinnear@gmail.com
+-  **Email**: sjuniversalpaint@gmail.com
 
  *“The more you build, the better you understand.”*

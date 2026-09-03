@@ -29,6 +29,7 @@ Below are a few select systems I have built that are actively deployed and runni
     *   *Tech stack*: Typescipt, Nodejs, PostgreSQL
 *   **[Mutts-life](https://mutts-life.vercel.app)**
     *   *What it is*: A fun project that includes a dog age calculator and a breed spotter powered by google-cloud/vision AI. No login required just a simple landing page.
+    *   This site has been paused on vercel to prevent my google-cloud/vision AI from being over used. 
     *   *Tech stack*: Typescript, Nodejs, multer
 *   **[Working On It](https://working-on-it-fmnh.vercel.app/)** 
     *   *What it is*: A production deployment showcasing state management, client interface design, and structured workflows.

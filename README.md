@@ -37,6 +37,9 @@ Below are a few select systems I have built that are actively deployed and runni
 *   **[ImLocal](https://imlocal.vercel.app/)** 
     *   *What it is*: A location-focused or environment-aware utility built with an intuitive layout to handle localized operations seamlessly.
     *   *Tech stack*: TypeScript, Node.js.
+*   **[Do_It](https://do-it-pink.vercel.app/)** 
+    *   *What it is*: This is a shareable note pad. Whit user roles applied (Editor or Viewer). Based on role the user can edit or just view
+    *   *Tech stack*: pern stack.
 *   **[QC Report](https://qc-report.vercel.app/login?callbackUrl=%2Fdashboard)** 
     *   *What it is*: An analytical quality control platform engineered with a clean data dashboard to parse and report dataset integrity.
     *   *Tech stack*: TypeScript, Prisma.
